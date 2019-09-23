@@ -11,7 +11,7 @@ Remember to include a README.md, in markdown format, that states how your team w
 
 # 1. sampling
 
-Finishe the lab started in class.  The lab is uploaded in [lab3](https://github.com/fedhere/DSPS/blob/master/lab3/labPI_inclass.ipynb) both a coopy of hte notebook worked in class and a slighty more refined one I prepared.
+Finish the lab started in class.  The lab is uploaded in [lab3](https://github.com/fedhere/DSPS/blob/master/lab3/labPI_inclass.ipynb) both a copy of the notebook worked in class and a slighty more refined one I prepared.
 
 
 # 2. Uncerainties and Dark Matter 
