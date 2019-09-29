@@ -1,0 +1,22 @@
+DOF Gross Floor Area
+Year Built
+Number of Buildings - Self-reported
+Occupancy
+ENERGY STAR Score
+Site EUI (kBtu/ft²)
+Weather Normalized Site EUI (kBtu/ft²)
+Weather Normalized Site Electricity Intensity (kWh/ft²)
+Weather Normalized Site Natural Gas Intensity (therms/ft²)
+Weather Normalized Source EUI (kBtu/ft²)
+Electricity Use - Grid Purchase (kBtu)
+Total GHG Emissions (Metric Tons CO2e)
+Property GFA - Self-Reported (ft²)
+Water Use (All Water Sources) (kgal)
+Water Intensity (All Water Sources) (gal/ft²)
+Source EUI (kBtu/ft²)
+bldgarea
+numbldgs
+numfloors
+unitsres
+unitstotal
+yearalter1
