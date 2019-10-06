@@ -1,0 +1,23 @@
+axes.facecolor : F1F1F1   
+figure.facecolor : F1F1F1  
+figure.edgecolor : F1F1F1   
+savefig.facecolor : F1F1F1    
+savefig.edgecolor : F1F1F1    
+axes.labelcolor : .15
+xtick.direction : in
+ytick.direction : in
+xtick.color : .15
+ytick.color : .15
+axes.axisbelow : True
+grid.linestyle : -
+text.color : .15
+font.family : ["sans-serif"]
+font.size : 15
+lines.solid_capstyle : round
+patch.edgecolor : w
+patch.force_edgecolor : True
+image.cmap : viridis
+xtick.top : True
+ytick.right : True
+axes.grid : False
+font.sans-serif : ["Arial", "DejaVu Sans", "Liberation Sans", "Bitstream Vera Sans", "sans-serif"]
