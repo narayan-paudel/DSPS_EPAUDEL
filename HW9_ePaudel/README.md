@@ -1,3 +1,11 @@
+The links for my visualization reviews are:
+https://github.com/narayan-paudel/DSPS_jFitzgerald/blob/master/HW8/VisReview_ePaudel.md and 
+
+
+
+
+
+
 ## READING
 actually watching: 
 
